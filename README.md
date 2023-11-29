@@ -15,7 +15,7 @@ https://www.mgm.gov.tr/FTPDATA/analiz/sonSOA.xml
 
 ## Screenshots 
 <p float="left">
-  <img src="screenshots/search.png" width="200" /> &nbsp;
+  <img src="screenshots/weather.png" width="200" /> &nbsp;
   <img src="screenshots/search.png" width="200" /> &nbsp;
 </p>
 
