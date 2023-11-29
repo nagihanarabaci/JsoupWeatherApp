@@ -13,11 +13,10 @@ https://www.mgm.gov.tr/FTPDATA/analiz/sonSOA.xml
 
 ```
 
-![Proje Ekran Görüntüsü]
+## Screenshots 
 <p float="left">
-  <img src="screenshots/search.png" width="200" />
-  <br>
-  <img src="screenshots/search.png" width="200" /> 
+  <img src="screenshots/search.png" width="200" /> &nbsp;
+  <img src="screenshots/search.png" width="200" /> &nbsp;
 </p>
 
 
