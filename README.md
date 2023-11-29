@@ -10,7 +10,6 @@ In this project, weather data captured with jsoup is shown with recyclerview.
 
 ```
 https://www.mgm.gov.tr/FTPDATA/analiz/sonSOA.xml
-
 ```
 
 ## Screenshots 
